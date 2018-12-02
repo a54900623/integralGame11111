@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.party.game</groupId>
-    <artifactId>gambling</artifactId>
+    <artifactId>integralGame</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
@@ -364,10 +364,10 @@
     </dependencyManagement>
 
     <modules>
-        <module>gambling-admin</module>
-        <module>gambling-core</module>
-        <module>gambling-common</module>
-        <module>gambling-mobile</module>
-        <module>gambling-login-token</module>
+        <module>integralGame-admin</module>
+        <module>integralGame-core</module>
+        <module>integralGame-common</module>
+        <module>integralGame-mobile</module>
+        <module>integralGame-login-token</module>
     </modules>
 </project>
