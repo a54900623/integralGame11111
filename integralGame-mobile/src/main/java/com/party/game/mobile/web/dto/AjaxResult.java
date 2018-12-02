@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 异步请求实体
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/8/26 0026.
  */
 public class AjaxResult implements Serializable {

@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * 签名忽略字段
- * @author wei.li
+ * @author yifeng
  * @version 2016/7/13 0013
  */
 

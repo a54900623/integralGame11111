@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Redis 缓存基类
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/9 0009.
  */
 public class BaseRedisDao<T> {

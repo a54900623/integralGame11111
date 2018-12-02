@@ -3,7 +3,7 @@ package com.party.game.authorization.utils;
 /**
  * 常量
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/26 0026.
  */
 public class Constant {

@@ -11,7 +11,7 @@ import java.util.Date;
 
 
 /** 描述
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class DateJsonSerializer extends JsonSerializer<Date> {

@@ -13,7 +13,7 @@ import org.apache.shiro.subject.Subject;
 /**
  * 登陆权限管理工具类
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/10/24 0024.
  */
 public class RealmUtils {

@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 
 
 /** MySQL分页
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public abstract class MySQLHelper {

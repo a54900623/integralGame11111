@@ -10,7 +10,7 @@ import org.apache.shiro.subject.Subject;
 /**
  * 登陆加密工具类
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/8/29 0029.
  */
 public class RealmUtils {

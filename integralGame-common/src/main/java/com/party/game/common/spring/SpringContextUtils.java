@@ -6,7 +6,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 
 /**
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class SpringContextUtils {

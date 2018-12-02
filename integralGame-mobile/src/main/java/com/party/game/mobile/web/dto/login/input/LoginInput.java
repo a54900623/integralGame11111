@@ -5,7 +5,7 @@ import org.hibernate.validator.constraints.NotBlank;
 /**
  * 登陆输入视图
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/22 0022.
  */
 public class LoginInput {

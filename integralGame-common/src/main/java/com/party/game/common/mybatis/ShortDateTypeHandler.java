@@ -9,7 +9,7 @@ import java.util.Calendar;
 
 
 /** 日期类型转换
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class ShortDateTypeHandler implements TypeHandler<ShortDate> {

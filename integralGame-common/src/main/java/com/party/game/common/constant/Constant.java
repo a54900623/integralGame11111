@@ -2,7 +2,7 @@ package com.party.game.common.constant;
 
 /**
  * 静态常量类
- * Created by wei.li
+ * Created by yifeng
  *
  * @date 2017/2/25 0025
  * @time 10:01

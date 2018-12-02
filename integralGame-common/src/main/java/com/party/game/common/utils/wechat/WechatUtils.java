@@ -18,7 +18,7 @@ import java.net.URL;
 
 /**
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/24 0024.
  */
 public class WechatUtils {

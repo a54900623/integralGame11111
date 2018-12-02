@@ -3,7 +3,7 @@ package com.party.game.common.utils;
 /**
  * 异常编码
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/22 0022.
  */
 public class PartyCode {

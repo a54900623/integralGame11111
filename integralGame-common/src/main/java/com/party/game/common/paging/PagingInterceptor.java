@@ -30,7 +30,7 @@ import java.util.Properties;
 
 
 /** MyBatis分页拦截器
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 @Intercepts({@Signature(type = Executor.class, method = "query", args = {MappedStatement.class, Object.class,

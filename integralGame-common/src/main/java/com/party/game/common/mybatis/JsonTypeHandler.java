@@ -16,7 +16,7 @@ import java.sql.SQLException;
 
 
 /** json类型处理器
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class JsonTypeHandler<T> implements TypeHandler<T> {

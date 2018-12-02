@@ -26,7 +26,7 @@ import java.util.Random;
 
 /**
  * 生成登陆验证码
- * User:Created by wei.li
+ * User:Created by yifeng
  * Date: on 2015/9/2.
  * Time:9:47
  */

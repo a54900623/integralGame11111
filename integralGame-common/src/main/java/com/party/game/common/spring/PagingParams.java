@@ -12,7 +12,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 
 /** Spring MVC 分页处理
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 @ControllerAdvice

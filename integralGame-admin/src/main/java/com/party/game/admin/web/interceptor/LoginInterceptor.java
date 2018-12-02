@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 登陆拦截器
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/8/30 0030.
  */
 

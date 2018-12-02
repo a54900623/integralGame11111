@@ -11,7 +11,7 @@ import java.io.IOException;
 
 
 /** 统一异常处理
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 @ControllerAdvice

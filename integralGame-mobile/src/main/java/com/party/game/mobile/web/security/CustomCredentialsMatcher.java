@@ -8,7 +8,7 @@ import org.apache.shiro.authc.credential.SimpleCredentialsMatcher;
 
 /**
  * 自定义登陆凭证验证
- * Created by wei.li
+ * Created by yifeng
  *
  * @date 2017/2/14 0014
  * @time 14:07

@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 
 /** 分页信息
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class Page extends RowBounds {

@@ -15,7 +15,7 @@ import java.util.Collections;
 
 /**
  * redis 实现session存储
- * Created by wei.li
+ * Created by yifeng
  *
  * @date 2017/4/21 0021
  * @time 9:29

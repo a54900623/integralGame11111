@@ -10,7 +10,7 @@ import java.sql.Timestamp;
 
 
 /** TimeStamp 序列化与反序列化
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 public class TimestampDeserializer extends JsonDeserializer<Timestamp> {

@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * 核销码工具类
  * 
- * @author wei.li
+ * @author yifeng
  * @version 2016/7/14 0014
  */
 public class VerifyCodeUtils {

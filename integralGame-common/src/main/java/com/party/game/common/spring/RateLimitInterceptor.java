@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 /** 访问频率控制
- * @author wei.li
+ * @author yifeng
  * @version 2016/8/1
  */
 @ControllerAdvice

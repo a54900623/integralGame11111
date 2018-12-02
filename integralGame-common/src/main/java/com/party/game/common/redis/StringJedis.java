@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * jedis 缓存工具
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/9/22 0022.
  */
 

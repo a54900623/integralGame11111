@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 登陆用户业务接口服务
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/10/24 0024.
  */
 

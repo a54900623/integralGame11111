@@ -9,7 +9,7 @@ import org.apache.shiro.authc.credential.SimpleCredentialsMatcher;
 /**
  * 自定义登陆凭证验证
  * party
- * Created by wei.li
+ * Created by yifeng
  * on 2016/10/28 0028.
  */
 public class CustomCredentialsMatcher extends SimpleCredentialsMatcher {

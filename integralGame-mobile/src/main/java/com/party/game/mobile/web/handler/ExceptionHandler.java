@@ -18,7 +18,7 @@ import java.io.OutputStreamWriter;
 
 /**
  * 控制器异常拦截器
- * Created by wei.li
+ * Created by yifeng
  *
  * @date 2017/1/3 0003
  * @time 16:26
